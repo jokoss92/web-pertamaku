@@ -1,0 +1,17 @@
+.belajar{
+  /* border-style: dotted; */
+  /* border-style: dashed; */
+  /* border-style: solid; */
+  /* border-style: double; */
+  /* border-style: ridge; */
+  /* border-style: inset; */
+  /* border-style: outset; */
+
+  /* border-style: none; */
+  /* border-style: hidden; */
+
+  /* border-style: dotted dashed solid double; */
+  background-color: orange;
+  padding:20px;
+  margin:100px;
+}

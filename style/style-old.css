@@ -1,0 +1,34 @@
+/* h1 {
+  color:blue;
+}
+
+#judul{
+  color:orange;
+}
+
+h2.belajar{
+  color:green;
+}
+
+h3, h4, h5 {
+  color:red;
+} */
+
+.warnaKelas{
+  color:red;
+}
+
+h2{
+  color:#76ee00;
+}
+
+#idwarna{
+  background-color:#76ee00;
+}
+
+body {
+  /* background-image:url("http://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/maluku-papua/west-papua/raja-ampat/thumb/page_thumb.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg");
+  background-repeat: no-repeat;
+  background-position: center top; */
+  background:orange url("../img/background.jpeg") no-repeat center top;
+}
